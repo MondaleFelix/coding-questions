@@ -25,3 +25,6 @@ def largest_continous_sum(arr):
 	return largest_sum
 
 print(largest_continous_sum([1, 2, -1, 3, 4, 10, 10, -10, -1]))
+
+# Time Complexity : O(n)
+# Space Complexity: O(2n) = O(n)
